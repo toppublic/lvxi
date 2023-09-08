@@ -1,5 +1,5 @@
 ---
-{"title":{"{ title }":null},"date":{"{ date }":null},"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"////","dgPassFrontmatter":true}
+{"title":{"{ title }":null},"date":{"{ date }":null},"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"////","dgPassFrontmatter":true}
 ---
 
 
